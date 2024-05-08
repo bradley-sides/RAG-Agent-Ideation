@@ -1,4 +1,5 @@
-# RAG-Agent-Ideation
+# Personalized Research Idea Generation
+
 Steps:
 
   1. Author inputs their 3(?) most recent papers.
