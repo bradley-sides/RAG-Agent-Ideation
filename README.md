@@ -10,9 +10,9 @@ Steps:
 
   4. Utilize harsh reviewing agents to assess the idea based on multiple criteria.
 
-    a. Novelty agent checks that the idea is sufficiently different from already researched topics. Provides detailed feedback as well as a score.
+     a. Novelty agent checks that the idea is sufficiently different from already researched topics. Provides detailed feedback as well as a score.
 
-    b. Fundability/Impact agent checks that the idea is both competitive for grants and focused on an important topic rather than simply something obscure. Provdes detailed feedback as well as a score.
+     b. Fundability/Impact agent checks that the idea is both competitive for grants and focused on an important topic rather than simply something obscure. Provdes detailed feedback as well as a score.
 
   5. If score minimums are not met, return to idea generating agent with feedback from both reviewing agents to improve upon the idea, iterate until passing.
 
